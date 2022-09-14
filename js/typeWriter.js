@@ -1,8 +1,8 @@
 
 let i = 0;
-let text1 = "Hey! Miss Qiu.";
-let text2 = "Today is the Big Day."
-let speed = 100;
+let text1 = "Hey Manda My honeybunny.";
+let text2 = "So I write some code to celebrate our 1st anniversary, I've spent about 5 months to make this website  ."
+let speed = 110;
 
 function typeWriter(text, para){
 	if(ok == 2){
