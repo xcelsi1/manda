@@ -1,7 +1,7 @@
 
 let i = 0;
-let text1 = "Hey Manda My honeybunny.";
-let text2 = "So I write some code to celebrate our 1st anniversary, I've spent about 5 months to make this website  ."
+let text1 = "To my beloved princess, Randa. happy anniversary ";
+let text2 = "I feel so very lucky to know you, and very lucky to have you absolutely. falling in love with you really makes me happy. i never thought i could find a grilfriend, and then i found the best one in the world, yeah its u. i always choose you no matter what happens, i love everything about u, kamu sempurna..sorry for always make u mad bubu"
 let speed = 110;
 
 function typeWriter(text, para){
